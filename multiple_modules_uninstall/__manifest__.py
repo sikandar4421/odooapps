@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 {
-    "name": "Modules Uninstalled",
+    "name": "Uninstall multiple apps",
     "summary": """This module help you to select multiple modules and all selected modules 
     can uninstall on a single click.
     """,
